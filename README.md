@@ -42,5 +42,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMoazAI&layout=compact&theme=radical)
 
 ---
+## 📊 GitHub Activity Graph
 
+[![Moaz's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevMoazAI&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🛡️ GitHub Stats & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=DevMoazAI&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/DevMoazAI?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/DevMoazAI?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/Docker-Used-blue?style=flat-square&logo=docker)
+![LangChain](https://img.shields.io/badge/LangChain-LLM_Framework-yellowgreen?style=flat-square)
+
+## 📌 Featured Projects
+
+- 🔹 [RAG Chatbot](https://github.com/DevMoazAI/YourRepo1)
+- 🔹 [Sensor Failure Predictor](https://github.com/DevMoazAI/YourRepo2)
+- 🔹 [CV Feedback System](https://github.com/DevMoazAI/YourRepo3)
+---
 🌟 Building scalable AI systems, one model at a time.
+
