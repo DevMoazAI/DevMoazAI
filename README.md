@@ -23,7 +23,7 @@
 👯 Let’s collaborate on open-source AI projects or productized ML apps.
 
 📫 Reach me at: moazahmadkhalid5242@gmail.com  
-🌐 Portfolio: [github.com/DevMoazAI](https://portfolio-delta-five-1cot66180g.vercel.app)  
+🌐 Portfolio: [Portfolio.com/DevMoazAI-Portfolio](https://portfolio-delta-five-1cot66180g.vercel.app)  
 💼 LinkedIn: [linkedin.com/in/moaz-ahmad-khalid](https://linkedin.com/in/moaz-ahmad-khalid)
 
 ---
